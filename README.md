@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/sobhan-niroula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sobhan-niroula" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I have experience on:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,angular,azure,css,docker,dotnet,express,figma,git,html,js,linux,nextjs,nodejs,postgres,postman,react,svelte,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,aws,nextjs,svelte,angular,tailwind,docker,dotnet,python,linux,postman,figma,azure,html,css,git/>
 </p>
