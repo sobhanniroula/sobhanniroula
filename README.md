@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,aws,nextjs,svelte,angular,tailwind,docker,dotnet,python,linux,postman,figma,azure,html,css,git" />
 </p>
 
-<p align="center">
+---
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sobhanniroula&label=Profile%20views&color=0e75b6&style=flat" alt="sobhan-niroula" />
 </p>
