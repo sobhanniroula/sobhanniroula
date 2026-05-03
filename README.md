@@ -16,5 +16,5 @@
 
 <h3 align="left">Languages and Tools I have experience on:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,aws,nextjs,svelte,angular,tailwind,docker,dotnet,python,linux,postman,figma,azure,html,css,git/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,aws,nextjs,svelte,angular,tailwind,docker,dotnet,python,linux,postman,figma,azure,html,css,git" />
 </p>
